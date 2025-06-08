@@ -1,3 +1,3 @@
-# 🚀 Rishiraj Pathak Portfolio Website 🚀
+# **🌐 Personal Portfolio Website**
 
 Live Demo: https://rishiraj-pathak-portfolio.vercel.app/
