@@ -38,7 +38,7 @@ portfolio-website/
 ```
 
 
-[![Visit My Portfolio](https://img.shields.io/badge/🚀%20Live%20Demo-Click%20Here-ff69b4?style=for-the-badge&logo=vercel)]([https://rishiraj-pathak-portfolio.vercel.app/](https://rishiraj-personal-portfolio.vercel.app/))
+[![Visit My Portfolio](https://img.shields.io/badge/🚀%20Live%20Demo-Click%20Here-ff69b4?style=for-the-badge&logo=vercel)](https://rishiraj-personal-portfolio.vercel.app/)
 
 
 
